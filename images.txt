@@ -1,4 +1,4 @@
 nginx
 whyour/qinglong:latest
-node
+node:20.12
 
