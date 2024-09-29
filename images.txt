@@ -1,4 +1,4 @@
-nginx
+onething1/wxedge
 whyour/qinglong:latest
 node:20.12
 
